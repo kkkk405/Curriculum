@@ -1,0 +1,38 @@
+
+.foto {
+    width: 240px;
+    margin-left: 100px;
+}
+.derecha {
+    float: left;
+    padding: 10px;
+    width: 400px;
+    margin: 100px;
+}
+.presentacion {
+    width: 500px;
+    margin-left: 600px;
+}
+.perfil {
+    width: 500px;
+    margin-left: 600px;
+    
+}
+.contacto {
+    width: 300px;
+    margin-left: 600px;
+}
+.educacion {
+    width: 250px;
+    margin-left: 600px;
+}
+.idiomas {
+    width: 250px;
+    margin-left: 600px;
+}
+.color{
+    color: rgb(254, 254, 254);
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+}
